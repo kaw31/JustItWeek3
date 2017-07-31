@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex2_SwitchExercise\Ex2_SwitchExercise\bin\Debug\Ex2_SwitchExercise.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex2_SwitchExercise\Ex2_SwitchExercise\bin\Debug\Ex2_SwitchExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex2_SwitchExercise\Ex2_SwitchExercise\bin\Debug\Ex2_SwitchExercise.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex2_SwitchExercise\Ex2_SwitchExercise\obj\Debug\Ex2_SwitchExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex2_SwitchExercise\Ex2_SwitchExercise\obj\Debug\Ex2_SwitchExercise.pdb

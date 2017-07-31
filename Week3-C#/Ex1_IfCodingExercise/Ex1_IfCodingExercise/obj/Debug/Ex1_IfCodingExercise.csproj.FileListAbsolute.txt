@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex1_IfCodingExercise\Ex1_IfCodingExercise\bin\Debug\Ex1_IfCodingExercise.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex1_IfCodingExercise\Ex1_IfCodingExercise\bin\Debug\Ex1_IfCodingExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex1_IfCodingExercise\Ex1_IfCodingExercise\bin\Debug\Ex1_IfCodingExercise.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex1_IfCodingExercise\Ex1_IfCodingExercise\obj\Debug\Ex1_IfCodingExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex1_IfCodingExercise\Ex1_IfCodingExercise\obj\Debug\Ex1_IfCodingExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex1_IfCodingExercise\Ex1_IfCodingExercise\obj\Debug\Ex1_IfCodingExercise.pdb

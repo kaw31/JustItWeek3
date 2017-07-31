@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex5_MethodsExercise\Ex5_MethodsExercise\bin\Debug\Ex5_MethodsExercise.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex5_MethodsExercise\Ex5_MethodsExercise\obj\Debug\Ex5_MethodsExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex5_MethodsExercise\Ex5_MethodsExercise\bin\Debug\Ex5_MethodsExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex5_MethodsExercise\Ex5_MethodsExercise\bin\Debug\Ex5_MethodsExercise.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex5_MethodsExercise\Ex5_MethodsExercise\obj\Debug\Ex5_MethodsExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex5_MethodsExercise\Ex5_MethodsExercise\obj\Debug\Ex5_MethodsExercise.pdb

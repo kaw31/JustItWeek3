@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex3_DoWhileExercise\Ex3_DoWhileExercise\bin\Debug\Ex3_DoWhileExercise.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex3_DoWhileExercise\Ex3_DoWhileExercise\obj\Debug\Ex3_DoWhileExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex3_DoWhileExercise\Ex3_DoWhileExercise\bin\Debug\Ex3_DoWhileExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex3_DoWhileExercise\Ex3_DoWhileExercise\bin\Debug\Ex3_DoWhileExercise.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex3_DoWhileExercise\Ex3_DoWhileExercise\obj\Debug\Ex3_DoWhileExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex3_DoWhileExercise\Ex3_DoWhileExercise\obj\Debug\Ex3_DoWhileExercise.pdb

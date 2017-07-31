@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex4_ForEachExercise\Ex4_ForEachExercise\bin\Debug\Ex4_ForEachExercise.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex4_ForEachExercise\Ex4_ForEachExercise\obj\Debug\Ex4_ForEachExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex4_ForEachExercise\Ex4_ForEachExercise\bin\Debug\Ex4_ForEachExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex4_ForEachExercise\Ex4_ForEachExercise\bin\Debug\Ex4_ForEachExercise.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex4_ForEachExercise\Ex4_ForEachExercise\obj\Debug\Ex4_ForEachExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex4_ForEachExercise\Ex4_ForEachExercise\obj\Debug\Ex4_ForEachExercise.pdb
