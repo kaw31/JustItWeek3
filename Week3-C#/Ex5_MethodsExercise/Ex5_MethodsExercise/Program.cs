@@ -43,11 +43,14 @@ namespace Ex5_MethodsExercise
                     result = Divide(num1, num2);
                     Console.WriteLine("Division is " + result);
                     break;
+                default:
+                    Console.WriteLine("You did not enter a valid sign");
+                    break;
             }
 
         }
 
-        static double Add(double number1, double number2)
+        static double Add(int number1, int number2)
         {
             double answer = 0;
 
@@ -56,7 +59,7 @@ namespace Ex5_MethodsExercise
             return answer;
         }
 
-        static double Subtract(double number1, double number2)
+        static double Subtract(int number1, int number2)
         {
             double answer = 0;
 
@@ -65,7 +68,7 @@ namespace Ex5_MethodsExercise
             return answer;
         }
 
-        static double Multiply(double number1, double number2)
+        static double Multiply(int number1, int number2)
         {
             double answer = 0;
 
@@ -74,7 +77,7 @@ namespace Ex5_MethodsExercise
             return answer;
         }
 
-        static double Divide(double number1, double number2)
+        static double Divide(int number1, int number2)
         {
             double answer = 0;
 

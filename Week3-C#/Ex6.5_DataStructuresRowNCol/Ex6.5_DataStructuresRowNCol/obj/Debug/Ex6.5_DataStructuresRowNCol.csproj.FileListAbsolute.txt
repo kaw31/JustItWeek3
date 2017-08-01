@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex6.5_DataStructuresRowNCol\Ex6.5_DataStructuresRowNCol\bin\Debug\Ex6.5_DataStructuresRowNCol.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex6.5_DataStructuresRowNCol\Ex6.5_DataStructuresRowNCol\bin\Debug\Ex6.5_DataStructuresRowNCol.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex6.5_DataStructuresRowNCol\Ex6.5_DataStructuresRowNCol\bin\Debug\Ex6.5_DataStructuresRowNCol.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex6.5_DataStructuresRowNCol\Ex6.5_DataStructuresRowNCol\obj\Debug\Ex6.5_DataStructuresRowNCol.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex6.5_DataStructuresRowNCol\Ex6.5_DataStructuresRowNCol\obj\Debug\Ex6.5_DataStructuresRowNCol.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex6.5_DataStructuresRowNCol\Ex6.5_DataStructuresRowNCol\obj\Debug\Ex6.5_DataStructuresRowNCol.csprojResolveAssemblyReference.cache
