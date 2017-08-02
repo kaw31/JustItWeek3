@@ -1,0 +1,2 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex2_UserInput_CreateCars\Ex2_UserInput_CreateCars\bin\Debug\Ex2_UserInput_CreateCars.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\C#-ObjectOrientation\Ex2_UserInput_CreateCars\Ex2_UserInput_CreateCars\obj\Debug\Ex2_UserInput_CreateCars.csprojResolveAssemblyReference.cache
